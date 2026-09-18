@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Oracle Database Autonomous",
+  "moduleDescription": "Intended Terraform resource module for Oracle Database Autonomous databases; implementation is not yet complete.",
+  "canonicalType": "Oracle.Database/autonomousDatabases",
+  "owners": [
+    "sihbher"
+  ],
+  "telemetryIdPrefix": "46d3xtrf.res.e60debe"
+}
