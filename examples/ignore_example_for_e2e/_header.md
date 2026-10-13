@@ -1,3 +1,5 @@
-# Ignored example for e2e tests
+# Default example
 
-This example will not be run as an e2e test as it has the .e2eignore file in the same directory.
+This ignored example exercises the generic virtual network starter, not Oracle Autonomous Database.
+
+This deploys the module in its simplest form into a new resource group in a randomly selected region.
